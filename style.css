@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Open+Sans:wght@400;700&display=swap');
+
+body {
+    margin-top: 64px;
+    text-align: center;
+}
+
+#main {
+    width: 626px;
+    height: 486px;
+
+    margin: 0px auto 64px;
+}
+
+#main img {
+    width: 350px;
+    height: 238px;
+
+    text-align: center;
+}
+
+h1 {
+    font-family: dosis;
+    font-size: 32px;
+    color: #3F3D56;
+    font-weight: medium;
+}
+
+h1 span {
+    color: #EE24FF;
+}
+
+p { 
+    width: 600px;
+    font-family: Open Sans;
+    font-weight: 400;
+    line-height: 22px;
+    color: #828282 ;
+    text-justify: auto;
+}
+
+p strong {
+    color:#231F20;
+}
+
+p span {
+    
+    font-weight: bolder;
+}
+
+#line {
+    width: 391px ;
+    height: 0px;
+
+    border: 1px #ECEFF2 solid;
+    margin: auto auto 16px;
+}
+
+#footer {
+    margin-bottom: 40px;
+}
+
+#footer a {
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 147%;
+   color: #3F3D56;
+   text-decoration: none;
+
+}
+
+a + a {
+    margin-left: 41px;
+}
+#imgRodape {
+    text-align: center;
+
+
+;
+    
+}
